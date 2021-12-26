@@ -1,7 +1,7 @@
 # Gamewebsite
 This is gaming website template and fully responsive ( HTML , CSS And JavaScript)
 
-##Demo Live Now : 
+##Demo Live Now : https://sm8uti.github.io/gamewebsite/
 
 ##Pc Version
 
